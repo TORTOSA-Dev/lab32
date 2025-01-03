@@ -48,6 +48,7 @@ footer {
 }
 
 h2{
+    color: var(--blue);
     border-bottom: 2px solid var(--sand);
 }
 
