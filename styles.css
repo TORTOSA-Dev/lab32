@@ -20,7 +20,7 @@ body {
 header {
     text-align: center;
     padding: 40px 0;
-    background-color: #094c75;
+    background-color: var(--blue);
     color: white;
     border-radius: 8px;
     margin-bottom: 30px;
@@ -53,5 +53,5 @@ h2{
 }
 
 h3 {
-    color: #3987c7;
+    color: var(--steel-blue);
 }
