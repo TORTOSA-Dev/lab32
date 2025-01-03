@@ -1,3 +1,13 @@
+:root {
+    --blue: #094c75;
+    --dark-text: #171e27;
+    --light-text: #4d4b4b   ;
+    --green:#6cbe4c;
+    --light-blue:#c9e8ef;
+    --steel-blue:#3987c7;
+    --sand:#dbbc84;
+}
+
 body {
     font-family: 'Arial', sans-serif;
     line-height: 1.6;
