@@ -58,6 +58,7 @@ h3 {
 
 .slider-container {
     width: 80%;
+    height: 400px;
     margin: 0 auto;
     position: relative;
     overflow: hidden;
@@ -126,4 +127,5 @@ h3 {
 
 .slide-content h3 {
     text-align: center;
+    margin: 0;
 }
