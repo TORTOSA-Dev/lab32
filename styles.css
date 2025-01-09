@@ -57,8 +57,7 @@ h3 {
 }
 
 .slider-container {
-    width: 800px;
-    height: 500px;
+    width: 80%;
     margin: 0 auto;
     position: relative;
     overflow: hidden;
